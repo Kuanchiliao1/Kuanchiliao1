@@ -6,7 +6,7 @@ Recently, I created Helios, an open-source platform that simplifies the visualiz
 
 ![architecture diagram](https://github.com/user-attachments/assets/625ecb77-b552-49ba-aec8-969e42ab3b0e)
 
-For more details on the design choices and architecture, you are welcome to view the technical case study [here](helios-platform.github.io)
+For more details on the architectural tradeoffs, load testing, and more - check out the technical case study [here](helios-platform.github.io)
 
 ### ✉️ Contact Info
 [LinkedIn](linkedin.com/in/tonyliao1)
