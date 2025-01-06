@@ -1,5 +1,5 @@
 ## Hey there, I'm Tony! 👋  
-I'm a Software Engineer with experience in technologies including TypeScript, React, Express, Python, Flask, Ruby, Clickhouse, PSQL, AWS (EC2, Kinesis, Lambda, Dynamo, S3, CDK), Terraform, and Docker.
+I'm a Software Engineer with experience in technologies including Ruby on Rails, TypeScript, React, Express, Python, Flask, Ruby, Clickhouse, PSQL, AWS (EC2, Kinesis, Lambda, Dynamo, S3, CDK), Terraform, and Docker.
 
 ### 🚀 Helios  
 Recently, I created Helios, an open-source platform that simplifies the visualization and analysis of real-time event streams by exposing data for SQL querying. It is built for Amazon Kinesis users and includes an npm package, interactive web app, and automated deployment.
